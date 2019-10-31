@@ -71,7 +71,7 @@ section {
     margin-right: 60px;
 }
 .logo{
-    margin: 100%; height: auto;
+    max-width: 100%; height: auto;
 }
 
 .search-box {
@@ -116,6 +116,6 @@ section {
 .profile-pic {width: 60px; height: 60px;}
 
 .profile-pic img {
-    border-radius: 100%;
+    border-radius: 100px;
     max-width: 100%;
 }
