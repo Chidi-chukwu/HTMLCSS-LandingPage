@@ -125,7 +125,7 @@ section {
     height: 400px;
     background-size: cover;
     background-position: center center;
-    text-transform: upper;
+    text-transform: uppercase;
 }
 
 .hero h1 {position: relative; left: -30px;}
