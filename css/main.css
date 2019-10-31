@@ -342,11 +342,12 @@ footer:after {
  }
 
  .ps {
-     flex: 0 0 25%;
-     padding: 40px 0;
-     columns: #e5e5e5;
-     font-size: 16px;
- }
+        flex: 0 0 25%;
+        padding: 40px 0;
+        color: #e5e5e5;
+        font-size: 16px;
+    }
+
 
  .ps img { max-width: 230px ;}
  .demo {padding: 0 30px; }
